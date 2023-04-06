@@ -37,6 +37,12 @@ N/A
 ## Contributing 
  
 N/A 
+
+## Credits
+[Live view of 5 Day Weather](https://cebrero11.github.io/5-Day-Weather/) 
+<img width="1371" alt="Screenshot 2023-04-06 at 4 29 44 PM" src="https://user-images.githubusercontent.com/43153891/230512144-46c33aa5-7efb-49d1-bb5e-8cf75871470c.png">
+<img width="1364" alt="Screenshot 2023-04-06 at 4 30 32 PM" src="https://user-images.githubusercontent.com/43153891/230512168-6acfbc31-497a-4ab0-8f32-dc944885b6d8.png">
+
  
 ## License 
 
